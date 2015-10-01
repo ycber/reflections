@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+Git creates the .git file. Without the meta data file git cant track commits/changes.
